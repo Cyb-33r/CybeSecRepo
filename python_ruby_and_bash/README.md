@@ -10,4 +10,4 @@ Bash is a command shell and language interpreter that is available for operating
 The following websites provides examples of bash scripting concepts, tutorials, examples, and cheat sheets:
 
 - Linux Config bash scripting tutorial: [https://linuxconfig.org/bash-scripting-tutorial](https://linuxconfig.org/bash-scripting-tutorial)
-- DevHints bash shell programming cheat sheet: [(https://devhints.io/bash](https://devhints.io/bash)
+- DevHints bash shell programming cheat sheet: [https://devhints.io/bash](https://devhints.io/bash)
