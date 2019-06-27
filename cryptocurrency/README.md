@@ -21,6 +21,7 @@
 * [CryptoCompare.com](https://www.cryptocompare.com/news/list/latest/) 
 * [CryptoNews.com](https://cryptonews.com/) 
 * [CryptoPotato.com](https://cryptopotato.com/crypto-news/) 
+
 **Hungarian**
 * [CryptoGuru.hu/](https://cryptoguru.hu/) 
 * [KriptoAkademia.hu/](https://kriptoakademia.com/) 
