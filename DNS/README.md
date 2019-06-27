@@ -1,4 +1,4 @@
-##DNS
+## DNS
 
 **English**
 * [Setup Guide | OpenDNS](https://www.opendns.com/setupguide/)
