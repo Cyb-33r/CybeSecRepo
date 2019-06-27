@@ -5,7 +5,7 @@
 * [CSS colour names](http://colours.neilorangepeel.com/)
 * [Color Picker | w3school](https://www.w3schools.com/colors/colors_picker.asp)
 * [Color Picker | WebpageFX](https://www.webpagefx.com/web-design/color-picker/)
-* [Simple Styles for <hr>'s](https://css-tricks.com/examples/hrs/)
+* [Simple Styles for <hr> 's](https://css-tricks.com/examples/hrs/)
 * [CSS Button Generator: Create HTML and CSS Button Styles](https://www.bestcssbuttongenerator.com/)
 * [uiGradients - Beautiful colored gradients](https://uigradients.com/#Influenza)
 * [CSS Zen Garden: The Beauty of CSS Design](http://www.csszengarden.com/)
