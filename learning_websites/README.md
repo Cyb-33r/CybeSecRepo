@@ -4,7 +4,7 @@
 * [code.google.com - Google Code](https://code.google.com/)
 * [hack.pledg.org](https://hackpledge.org/)
 * [Code Avengers.com](https://www.codeavengers.com/)
-* [Khan Academy](https://www.khanacademy.org/) |  Free Online Courses, Lessons & Practice
+* [Khan Academy](https://www.khanacademy.org/)
 * [freeCodeCamp.org](https://www.freecodecamp.org/)
 * [Udemy.com](https://www.udemy.com/)
 * [Pluralshight.com](https://www.pluralsight.com/)
