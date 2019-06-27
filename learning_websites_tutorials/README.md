@@ -15,7 +15,7 @@
 * [CodeAcademy.com](https://www.codecademy.com/learn/learn-git)
 * [Become-A-Full-Stack-Web-Developer](https://github.com/bmorelli25/Become-A-Full-Stack-Web-Developer). 100+ Free resources for learning Full Stack Web Development.
 
-###Collection of programming languages
+### Collection of programming languages
 * [Programming languages](https://github.com/collections/programming-languages) | A list of programming languages that are actively developed on GitHub.
 
 ### Ruby
