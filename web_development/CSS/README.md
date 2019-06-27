@@ -1,6 +1,7 @@
 ## Web Development
 
 **Englsih**
+
 * [CSS colour names](http://colours.neilorangepeel.com/)
 * [Color Picker | w3school](https://www.w3schools.com/colors/colors_picker.asp)
 * [Color Picker | WebpageFX](https://www.webpagefx.com/web-design/color-picker/)
@@ -11,5 +12,6 @@
 * [Specificity Calculator](http://specificity.keegan.st/)
 
 **Hungarian**
+
 * [30 CSS szelektor, amit mindenképp ismerned kell](https://code.tutsplus.com/hu/tutorials/the-30-css-selectors-you-must-memorize--net-16048)
 
