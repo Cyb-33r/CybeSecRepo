@@ -26,4 +26,4 @@
 **Hungarian**
 * [CryptoGuru.hu/](https://cryptoguru.hu/) 
 * [KriptoAkademia.hu/](https://kriptoakademia.com/) 
-* [kriptoWorld.hu](https://www.kriptoworld.hu/) 
+* [KriptoWorld.hu](https://www.kriptoworld.hu/) 
