@@ -27,3 +27,4 @@
 * [CryptoGuru.hu/](https://cryptoguru.hu/) 
 * [KriptoAkademia.hu/](https://kriptoakademia.com/) 
 * [KriptoWorld.hu](https://www.kriptoworld.hu/) 
+* [CoinBroker.hu](https://www.coinbroker.hu/blog/) 
