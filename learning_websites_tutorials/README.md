@@ -1,4 +1,4 @@
-## Learning websites related to IT
+## Learning websites / Tutorials related to IT
 
 * [W3Schools.com -  Online Web Tutorials](https://www.w3schools.com/)
 * [code.google.com - Google Code](https://code.google.com/)
