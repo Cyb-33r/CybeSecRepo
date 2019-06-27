@@ -23,7 +23,7 @@ The following websites provides examples of Python programming concepts, tutoria
 * Tutorials Point Python Tutorial: [https://www.tutorialspoint.com/python/index.htm](https://www.tutorialspoint.com/python/index.htm)
 * The Python Guru: [http://thepythonguru.com](http://thepythonguru.com)
 * A comprehensive list of Python resources: [https://github.com/vinta/awesome-python](https://github.com/vinta/awesome-python)
-* SoloLearn Python 3 Tutorial: [https://www.sololearn.com/Course/Python/](https://www.sololearn.com/Course/Python/)
+* SoloLearn Python 3 Tutorial: [https://www.sololearn.com/Course/Python](https://www.sololearn.com/Course/Python/)
 
 
 ### Ruby
