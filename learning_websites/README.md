@@ -11,6 +11,7 @@
 * [Cybrary.it](https://www.cybrary.it)
 * [HackerRank.com](https://www.hackerrank.com)
 * [SoloLearn.com](https://www.sololearn.com/)
+* [Oreilly.com](oreilly.com)
 
 ### Ruby
 * Ruby in Twenty Minutes tutorial: [https://www.ruby-lang.org/en/documentation/quickstart/](https://www.ruby-lang.org/en/documentation/quickstart/)
