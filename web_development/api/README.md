@@ -7,5 +7,5 @@
 * [JSONView - Chrome Internet Store](https://chrome.google.com/webstore/detail/jsonview/chklaanhfefbnpoihckbnefhakgolnmc)
 * [Online JSON Viewer](http://jsonviewer.stack.hu/)
 * [GitHub - request/request: 🏊🏾 Simplified HTTP request client.](https://github.com/request/request)
-* [Movie API](https://www.omdbapi.com]
+* [Movie API](https://www.omdbapi.com)
 * [OMDb API - The Open Movie Database](https://www.omdbapi.com/)
