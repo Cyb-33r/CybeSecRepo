@@ -16,7 +16,7 @@
 * [Become-A-Full-Stack-Web-Developer](https://github.com/bmorelli25/Become-A-Full-Stack-Web-Developer). 100+ Free resources for learning Full Stack Web Development.
 
 
-## Coding
+## **Coding**
 
 
 ### Collection of programming languages
