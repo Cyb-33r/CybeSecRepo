@@ -12,7 +12,7 @@
 * [HackerRank.com](https://www.hackerrank.com)
 * [SoloLearn.com](https://www.sololearn.com/)
 * [Oreilly.com](oreilly.com)
-* [Become-A-Full-Stack-Web-Developer](https://github.com/bmorelli25/Become-A-Full-Stack-Web-Developer) | Github. 100+ Free resources for learning Full Stack Web Development.
+* [Become-A-Full-Stack-Web-Developer](https://github.com/bmorelli25/Become-A-Full-Stack-Web-Developer). 100+ Free resources for learning Full Stack Web Development.
 
 ### Ruby
 * Ruby in Twenty Minutes tutorial: [https://www.ruby-lang.org/en/documentation/quickstart/](https://www.ruby-lang.org/en/documentation/quickstart/)
