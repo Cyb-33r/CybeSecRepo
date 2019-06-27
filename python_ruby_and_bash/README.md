@@ -41,3 +41,6 @@ The following websites provides examples of Ruby programming concepts, tutorials
 ### PowerShell
 
 Throughout this book, you have learned that PowerShell and related tools can be used for exploitation and post-exploitation activities. Microsoft has a vast collection of free video courses and tutorials that include PowerShell at the Microsoft Virtual Academy (see [https://mva.microsoft.com](https://mva.microsoft.com) or [https://mva.microsoft.com/training-topics/powershell](https://mva.microsoft.com/training-topics/powershell)).
+
+### Practise coding
+* Practice coding, prepare for interviews, and get hired at [HackerRank.com](https://www.hackerrank.com/)
